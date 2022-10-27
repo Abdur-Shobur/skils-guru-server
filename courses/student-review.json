@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "DevelopersZone Team",
+    "profile_pic": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "date": "November 14, 2021",
+    "platform": "https://i.ibb.co/0ZdrN21/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png",
+    "review": 5,
+    "details": "Skils Guru is an awesome platform and they really take care to their students."
+  },
+  {
+    "id": 2,
+    "name": "Jabedul alam",
+    "profile_pic": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "date": "July 17, 2021",
+    "platform": "https://i.ibb.co/r2KYZtR/facb.png",
+    "review": 4,
+    "details": "Abdur is one of the freelancers best leader and mentor. Skils Guru is one of the best freelance organisations."
+  },
+  {
+    "id": 3,
+    "name": "Tabasum Mim",
+    "profile_pic": "https://images.unsplash.com/photo-1551411979-4b7e24ec51e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "date": "April 28, 2000",
+    "platform": "https://i.ibb.co/0ZdrN21/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png",
+    "review": 5,
+    "details": "One of the best online learning Platform"
+  },
+  {
+    "id": 4,
+    "name": "Jabedul alam",
+    "profile_pic": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "date": "December 16, 2021",
+    "platform": "https://i.ibb.co/r2KYZtR/facb.png",
+    "review": 5,
+    "details": "probably better than other Bangladeshi institutes as all the mentors are helpful and keep their best to fix any types of problem."
+  },
+  {
+    "id": 5,
+    "name": "Mr. Arif",
+    "profile_pic": "https://images.unsplash.com/photo-1563237023-b1e970526dcb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+    "date": "Jun 15, 2021",
+    "platform": "https://i.ibb.co/0ZdrN21/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png",
+    "review": 4,
+    "details": "Slils Guru is a good platform for support in freelancing sector. Their support team is very good and support us 24 hours support from this excellent institution"
+  },
+  {
+    "id": 6,
+    "name": "Rased Islam",
+    "profile_pic": "https://images.unsplash.com/photo-1474176857210-7287d38d27c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "date": "August 22, 2022",
+    "platform": "https://i.ibb.co/r2KYZtR/facb.png",
+    "review": 5,
+    "details": "Skis Gurs Mentors and support members have a good communication, value, and quality. Their student's freelancing success is great!"
+  },
+  {
+    "id": 7,
+    "name": "Rofiq Islam",
+    "profile_pic": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "date": "March 13, 2021",
+    "platform": "https://i.ibb.co/0ZdrN21/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png",
+    "review": 5,
+    "details": "Skils Guru is One Of the best web development Institute in Bangladesh. Learn lot of things."
+  },
+  {
+    "id": 8,
+    "name": "Safa Karim",
+    "profile_pic": "https://images.unsplash.com/photo-1546246380-70f857cf5310?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "date": "January 10, 2000",
+    "platform": "https://i.ibb.co/0ZdrN21/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png",
+    "review": 4,
+    "details": "One of the best online learning Platform"
+  },
+  {
+    "id": 9,
+    "name": "Rifat Hoque",
+    "profile_pic": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "date": "April 19, 2021",
+    "platform": "https://i.ibb.co/r2KYZtR/facb.png",
+    "review": 5,
+    "details": "Very good in wordpress,ecommerece"
+  }
+]

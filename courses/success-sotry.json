@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "https://cdn-icons-png.flaticon.com/512/681/681494.png",
+    "total": "10000+",
+    "quote": "Student",
+    "details": "Aleady Trained"
+  },
+  {
+    "id": 2,
+    "icon": "https://cdn-icons-png.flaticon.com/512/2618/2618576.png",
+    "total": "200+",
+    "quote": "Batch",
+    "details": "Aleady Launched"
+  },
+  {
+    "id": 3,
+    "icon": "https://cdn-icons-png.flaticon.com/512/1642/1642423.png",
+    "total": "93%",
+    "quote": "Success",
+    "details": "Within the Course"
+  },
+  {
+    "id": 4,
+    "icon": "https://cdn-icons-png.flaticon.com/512/2529/2529396.png",
+    "total": "10.3M",
+    "quote": "Revenue",
+    "details": "Already Earned"
+  }
+]
